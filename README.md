@@ -1,4 +1,4 @@
-# Colloidal Information Engine README file:
+# Colloidal Information Engine file:
 
 ## Contents
 
