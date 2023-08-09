@@ -20,6 +20,20 @@ Have docstrings on all functions, but refer to readme file at the top of each se
 
 ### Model constants
 
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+// etc.
+
 ~~~~
 NOISE_MODEL = 1
 
