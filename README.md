@@ -1,4 +1,4 @@
-# Colloidal Information Engine file:
+# Colloidal Information Engine Project:
 
 ## Contents
 
