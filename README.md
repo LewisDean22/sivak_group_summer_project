@@ -12,13 +12,23 @@
 * Power Spectral density calculator
 * Cluster computing
 
-Have docstrings on all functions, but refer to readme file at the top of each seperate script for a script summary. <br>
+<p>
+Have docstrings on all functions but refer to readme file at the top of each separate script for a script summary.
+</p>
+<p>
+Also, use draw.io to make a diagram which will be used in lab book, report, and this readme file to be seen in the Git repository.
+</p>
+<p>
+May be important to check out the GitHub environment tab such that the compute Canada virtual environment works for others�
+</p>
 
 ### Initialise project directory
 
 ### Cython setup 
 
 ### Model constants
+
+![Diagram](diagrams/apparatus.png "Experimental apparatus")
 
 ~~~~
 NOISE_MODEL = 1
