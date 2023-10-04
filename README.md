@@ -28,7 +28,7 @@ May be important to check out the GitHub environment tab such that the compute C
 
 ### Model constants
 
-[Diagram](svg_test.svg "Experimental apparatus")
+[Diagram](engine_schematic.drawio.svg "Experimental apparatus")
 
 ~~~~
 NOISE_MODEL = 1
