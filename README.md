@@ -1,4 +1,4 @@
-# Colloidal Information Engine Project:
+# Colloidal Information Engine Project (INCOMPLETE):
 
 ## Contents
 
