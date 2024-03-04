@@ -1,4 +1,4 @@
-# Colloidal Information Engine Project (INCOMPLETE):
+# Colloidal Information Engine Project:
 
 ## Contents
 
@@ -66,10 +66,3 @@ TRANSIENT_FRACTION = 0.1
 <br>
 <br>
 
-
-_This is in itallic_ <br>
-**This is in bold**
-
-|Name|Email|Address|
-|----|-----|-------|
-|John|john@example.com|Address1|
